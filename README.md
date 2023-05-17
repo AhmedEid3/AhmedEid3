@@ -24,4 +24,4 @@ Feel free to reach out to me if you have any questions, collaboration opportunit
 
 ![](https://komarev.com/ghpvc/?username=AhmedEid3)
 
-[![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedEid3)](https://github.com/anuraghazra/github-readme-stats)
+[![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedEid3&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
