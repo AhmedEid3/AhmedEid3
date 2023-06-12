@@ -22,6 +22,3 @@ I am a JavaScript Developer specializing in front-end frameworks like React. Wit
 - [Meta Front-End Developer Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/BV4ZA6PP7R46), 2023
 
 Feel free to reach out to me if you have any questions, collaboration opportunities, or if you'd like to discuss potential projects. I'm always open to new challenges and exciting opportunities!
-
-
-[![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedEid3&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
