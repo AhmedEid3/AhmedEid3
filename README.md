@@ -1,14 +1,14 @@
 # Ahmed Eid ![](https://komarev.com/ghpvc/?username=AhmedEid3)
 
 ## About Me 
-I am a JavaScript Developer specializing in front-end frameworks like React. With a strong interest in Design Systems, Web Accessibility, and Serverless Technologies, particularly Google Cloud, I have experience working with Agile and Scrum methodologies. I am dedicated to expanding my skillset through the development of JAM (JavaScript, API's, Mark Up) stack applications using the Next.js framework. Additionally, I have hands-on experience in integrating payment gateways such as Barclays, Stripe, Google Pay, and Apple Pay.
+I am a JavaScript Developer specializing in front-end frameworks like React. With a strong interest in Design Systems, Web Accessibility, and Serverless Technologies, particularly Google Cloud, I have experience working with Agile methodology (Scrum and Kanban). I am dedicated to expanding my skillset through the development of JAM (JavaScript, APIs, Mark Up) stack applications using the Next.js framework. Additionally, I have hands-on experience in integrating payment gateways such as Barclays, Stripe, Google Pay, and Apple Pay.
 
 
 ## Skills
 - Front-end Development: HTML5, CSS3, JavaScript, TypeScript
 - Frameworks and Libraries: React, Redux, Bootstrap, Material-UI
 - Version Control: Git, GitHub
-- Build Tools:Vite, Webpack, Babel, npm, Yarn
+- Build Tools: Vite, Webpack, Babel, npm, Yarn
 - Testing: Jest, Vites, React Test Library
 - UI/UX Design Principles
 - Responsive Web Design
